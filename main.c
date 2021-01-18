@@ -25,7 +25,7 @@ char *ptr = "yuo yioe";
 char arry[] = "zhaotongyhjaj";
 
 
-//struct app test = {u,u};
+struct app test = {u,u};
 printf("%d\n",test.a);
 
 printf("%d\n",test.a);
