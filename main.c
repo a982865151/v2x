@@ -12,8 +12,8 @@ struct app{
 	int b;
 }test={1,2};
 
-char *g_ptr = "xxxxxxxxxxxxxx";
-char g_arry[] = "wwwwwwwwwww";
+char *g_ptr = "yyyyyyyyyyyy";
+char g_arry[] = "llllllllllll";
 int main()
 {
 static int l;
