@@ -12,7 +12,7 @@ struct app{
 	int b;
 }test={1,2};
 
-char *g_ptr = "qqqqqqqqqqqq";
+char *g_ptr = "nnnnnnnnnnnnnn";
 char g_arry[] = "wwwwwwwwwww";
 int main()
 {
